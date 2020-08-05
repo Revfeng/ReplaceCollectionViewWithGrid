@@ -1,0 +1,16 @@
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\bin\Debug\netstandard2.0\CollectionViewExample.deps.json
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\bin\Debug\netstandard2.0\CollectionViewExample.dll
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\bin\Debug\netstandard2.0\ref\CollectionViewExample.dll
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\bin\Debug\netstandard2.0\CollectionViewExample.pdb
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\CollectionViewExample.csprojAssemblyReference.cache
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\CollectionViewExample.AssemblyInfoInputs.cache
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\CollectionViewExample.AssemblyInfo.cs
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\CollectionViewExample.csproj.CoreCompileInputs.cache
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\CollectionViewExample.dll
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\ref\CollectionViewExample.dll
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\CollectionViewExample.pdb
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample\obj\Debug\netstandard2.0\Views\UserControls\CustomScrollView.xaml.g.cs

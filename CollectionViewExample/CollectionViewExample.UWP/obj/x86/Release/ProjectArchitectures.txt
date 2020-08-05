@@ -1,0 +1,1 @@
+C:\Users\revention\source\repos\CollectionViewExample\CollectionViewExample\CollectionViewExample.UWP\CollectionViewExample.UWP.csproj;x86

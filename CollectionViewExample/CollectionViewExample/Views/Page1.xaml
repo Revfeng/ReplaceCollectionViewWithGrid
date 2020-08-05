@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:usercontrol="clr-namespace:CollectionViewExample.Views.UserControls"
+             x:Class="CollectionViewExample.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame>
+                <!--<Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <CollectionView ItemsSource="{Binding Monkeys,Mode=TwoWay}">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Button Text="{Binding Name}"/>
+                                </Grid>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                        <CollectionView.ItemsLayout>
+                            <GridItemsLayout Orientation="Vertical" Span="4"/>
+                        </CollectionView.ItemsLayout>
+                    </CollectionView>
+                </Grid>-->
+
+                <usercontrol:CustomScrollView Monkeys="{Binding Monkeys}"  
+                                              SelectionCommand="{Binding SelectMonkeyButtonCommand}"/>
+            </Frame>
+            <Button Text="Back" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
